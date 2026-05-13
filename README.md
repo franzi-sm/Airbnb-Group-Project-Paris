@@ -26,6 +26,7 @@ The Python script focuses on the first transformation step of the data by cleani
 Further steps include host clustering, cleaning and transforming calendar.csv, exploring pricing patterns, enriching the dataset with nearby attractions, and analyzing amenity counts to identify additional insights into Airbnb listings and market dynamics.
 
 Data Modelling
+<img width="580" height="363" alt="image" src="https://github.com/user-attachments/assets/e37492d8-4269-489e-85b7-38efcd6f181d" />
 
 The data model was designed in Power BI using a relational star-schema approach to create a scalable structure for analysis. Multiple fact and dimension tables were connected, including listings, calendar availability, reviews, host information, neighbourhood data, amenities, and nearby attractions.
 
