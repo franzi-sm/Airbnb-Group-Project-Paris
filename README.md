@@ -17,9 +17,18 @@ Extract Transform Load (Transform) Process:
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/17e41cfd-1e0b-418a-8e8b-cfe5449b47cd" />
 
-* Python Skript einfügen & darauf eingehen*
+Extract
+*** ENTER HERE INFO
 
-* Datenmodellierung eingehen *
+Transform  
+The Python script focuses on the first transformation step of the data by cleaning and extending it for analysis. The workflow includes preprocessing listings.csv, integrating neighbourhood GeoJSON data for geospatial mapping, handling missing values, and creating additional features to improve data quality and usability.
+
+Further steps include host clustering, cleaning and transforming calendar.csv, exploring pricing patterns, enriching the dataset with nearby attractions, and analyzing amenity counts to identify additional insights into Airbnb listings and market dynamics.
+
+Data Modelling
+The data model was designed in Power BI using a relational star-schema approach to create a scalable structure for analysis. Multiple fact and dimension tables were connected, including listings, calendar availability, reviews, host information, neighbourhood data, amenities, and nearby attractions.
+
+The focus was placed on data normalization, relationship management, and the integration of geospatial and clustering data. The model supports interactive reporting, pricing analysis, host segmentation, and availability.
 
 * Dashbaord zeigen - Video einfügen*
 
