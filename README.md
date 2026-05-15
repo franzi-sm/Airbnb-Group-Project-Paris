@@ -45,11 +45,39 @@ The data model was designed in Power BI using a relational star-schema approach 
 
 The focus was placed on data normalization, relationship management, and the integration of geospatial and clustering data. The model supports interactive reporting, pricing analysis, host segmentation, and availability.
 
-* Dashbaord zeigen - Video einfügen*
+Power BI Dashboard
 
-* Key Takeaways / Recommendations *
+A comprehensive walkthrough video of the Power BI dashboard is currently in progress. The current screenshots and descriptions serve as temporary placeholders until the final showcase is completed.
 
-* Improvements *
+Market Overview
+
+* Availability by Month
+* Average Price by Neighborhoods
+* Distribution Across Neighborhoods
+
+Property Overview
+
+* Amenities Statistics & Property Type
+* Instant Bookable / Short-Term Share
+
+Host Overview
+
+* Verification Types
+* Superhost Status & Host Categories based on Revenue and Response Behavior
+
+Review Overview
+
+* Review Analysis
+* Strengthening Customer Satisfaction & Loyalty
+* Identifying Hidden Gems
+
+Key Takeaways
+* Proximity to major landmarks, such as the Eiffel Tower, has a strong impact on pricing.
+* Listings with 5-star ratings offer the best price-performance ratio.
+* Superhost status is associated with better reviews and higher occupancy rates.
+* On average, each listing generates approximately $21k in annual revenue.
+* Private rooms show high occupancy rates within the mid-price segment.
+* The Élysée and Louvre neighborhoods have the highest prices while also having some of the fewest listings.
 
 Data Disclaimer
 
