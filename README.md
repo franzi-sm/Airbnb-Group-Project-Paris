@@ -3,7 +3,8 @@ This university group project focused on a business case for Airbnb listings in 
 
 The project started with data cleaning and enrichment in Python, followed by geographical mapping, clustering of host characteristics and listing features. Afterwards, the data model was developed in Microsoft Power BI using Power Query and completed with an interactive visualization layer. The project was later further refined with a stronger focus on the pricing component and pricing-related insights.
 
-Business Case:
+Business Case
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/00241dec-1929-4449-afed-b845e04d7e49" />
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/823cb5fa-7f65-47a5-9f3a-2caa03d0a303" />
@@ -18,9 +19,11 @@ Extract Transform Load (Transform) Process:
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/17e41cfd-1e0b-418a-8e8b-cfe5449b47cd" />
 
 Extract
+
 *** ENTER HERE INFO
 
-Transform  
+Transform
+
 The Python script focuses on the first transformation step of the data by cleaning and extending it for analysis. The workflow includes preprocessing listings.csv, integrating neighbourhood GeoJSON data for geospatial mapping (Centre/North/South/West/East), handling missing values, and creating additional features to improve data quality and usability.
 
 Further steps include host clustering, cleaning and transforming calendar.csv, exploring pricing patterns, enriching the dataset with nearby attractions, and analyzing amenity counts to identify additional insights into Airbnb listings and market dynamics.
