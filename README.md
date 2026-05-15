@@ -20,7 +20,16 @@ Extract Transform Load (Transform) Process:
 
 Extract
 
-*** ENTER HERE INFO
+The extraction process focused on collecting Airbnb listing and availability data for Paris from publicly available sources. The primary datasets, listings.csv and calendar.csv, were extracted from Inside Airbnb and contain detailed information on property characteristics, host information, pricing, reviews, and daily availability.
+
+In addition, a dataset containing nearby attractions and points of interest was integrated to enrich the analytical potential of the project. This supplementary dataset supports location-based analysis and provides further context for understanding Airbnb market dynamics and tourist activity patterns.
+
+The extracted data covers the period from March 2025 to mid-March 2026.
+
+Data Sources
+
+* Source: https://insideairbnb.com/get-the-data
+* Source: https://data.mendeley.com/datasets/vh4g4g2322/1
 
 Transform
 
