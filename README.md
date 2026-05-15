@@ -50,22 +50,25 @@ Power BI Dashboard
 A comprehensive walkthrough video of the Power BI dashboard is currently in progress. The current screenshots and descriptions serve as temporary placeholders until the final showcase is completed.
 
 Market Overview
-
+<img width="1013" height="570" alt="image" src="https://github.com/user-attachments/assets/0ed438be-9bbd-4d7e-b02b-8efdec8dde91" />
 * Availability by Month
 * Average Price by Neighborhoods
 * Distribution Across Neighborhoods
 
 Property Overview
-
+<img width="1008" height="569" alt="image" src="https://github.com/user-attachments/assets/7251e55b-2e26-47f0-aff1-e270434b9592" />
 * Amenities Statistics & Property Type
 * Instant Bookable / Short-Term Share
 
 Host Overview
-
+<img width="1014" height="562" alt="image" src="https://github.com/user-attachments/assets/265929f4-ceeb-44c7-9f0f-4f3685f9fbb8" />
+<img width="588" height="318" alt="image" src="https://github.com/user-attachments/assets/ffd36036-506d-46ee-bfa4-6577c86525cc" />
 * Verification Types
 * Superhost Status & Host Categories based on Revenue and Response Behavior
 
 Review Overview
+<img width="1014" height="562" alt="image" src="https://github.com/user-attachments/assets/d104ccc8-12c3-46d9-ab91-7c5c648734e0" />
+Hidden Gems are listings that have received fewer than 10 reviews but already hold an exceptionally high average rating (≥ 4.9). These accommodations are still relatively undiscovered, yet early guest feedback highlights them as high-quality stays, true insider tips worth exploring!  
 
 * Review Analysis
 * Strengthening Customer Satisfaction & Loyalty
