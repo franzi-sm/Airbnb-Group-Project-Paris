@@ -1,7 +1,7 @@
 # Airbnb-Group-Project-Paris
-This university group project focused on a business case for Airbnb listings in Paris.
+This university group project focuses on the analysis of Airbnb listings in Paris using business intelligence and analytics techniques.
 
-The project started with data cleaning and enrichment in Python, followed by geographical mapping, clustering of host characteristics and listing features. Afterwards, the data model was developed in Microsoft Power BI using Power Query and completed with an interactive visualization layer.
+The project includes data extraction, cleaning, and enrichment in Python, followed by geospatial analysis and clustering of host and listing characteristics. The processed data was then integrated into a dimensional data model in Microsoft Power BI using Power Query and finalized through an interactive dashboard and visualization layer.
 
 Business Case
 
