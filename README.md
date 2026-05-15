@@ -21,9 +21,10 @@ Extract
 *** ENTER HERE INFO
 
 Transform  
-The Python script focuses on the first transformation step of the data by cleaning and extending it for analysis. The workflow includes preprocessing listings.csv, integrating neighbourhood GeoJSON data for geospatial mapping, handling missing values, and creating additional features to improve data quality and usability.
+The Python script focuses on the first transformation step of the data by cleaning and extending it for analysis. The workflow includes preprocessing listings.csv, integrating neighbourhood GeoJSON data for geospatial mapping (Centre/North/South/West/East), handling missing values, and creating additional features to improve data quality and usability.
 
 Further steps include host clustering, cleaning and transforming calendar.csv, exploring pricing patterns, enriching the dataset with nearby attractions, and analyzing amenity counts to identify additional insights into Airbnb listings and market dynamics.
+
 
 Data Modelling
 
@@ -39,6 +40,10 @@ The focus was placed on data normalization, relationship management, and the int
 
 * Improvements *
 
-* Disclaiemr Data Time Availability & Approval von allen Mitwirkenden *
+Data Disclaimer
+This project uses publicly available data provided by Inside Airbnb.  
+The dataset includes information covering the period from March 1, 2025 to March 15, 2026.
+Data was accessed and used for academic and non-commercial purposes only.
 
-* Verfügbare Skripte
+Approval & Contribution Statement
+All contributors and collaborators involved in this project have reviewed and approved the publication of this repository and its contents on GitHub.
