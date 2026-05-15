@@ -31,7 +31,7 @@ Further steps include host clustering, cleaning and transforming calendar.csv, e
 
 Data Modelling
 
-<img width="580" height="363" alt="image" src="https://github.com/user-attachments/assets/e37492d8-4269-489e-85b7-38efcd6f181d" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/892ba10a-6452-4577-ae88-8057d3d5261c" />
 
 The data model was designed in Power BI using a relational star-schema approach to create a scalable structure for analysis. Multiple fact and dimension tables were connected, including listings, calendar availability, reviews, host information, neighbourhood data, amenities, and nearby attractions.
 
