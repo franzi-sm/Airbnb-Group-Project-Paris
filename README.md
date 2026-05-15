@@ -10,8 +10,7 @@ Business Case
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/823cb5fa-7f65-47a5-9f3a-2caa03d0a303" />
 
 Process Steps
-
-* Informationsbedarfsanalyse einfügen*
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1b183b12-9a3b-4269-8e76-b8312b4fcf17" />
 
 Extract Transform Load (Transform) Process:
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d1de843d-a48d-4fb0-b8dd-69fa5224b374" />
