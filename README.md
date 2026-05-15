@@ -41,9 +41,11 @@ The focus was placed on data normalization, relationship management, and the int
 * Improvements *
 
 Data Disclaimer
+
 This project uses publicly available data provided by Inside Airbnb.  
 The dataset includes information covering the period from March 1, 2025 to March 15, 2026.
 Data was accessed and used for academic and non-commercial purposes only.
 
 Approval & Contribution Statement
+
 All contributors and collaborators involved in this project have reviewed and approved the publication of this repository and its contents on GitHub.
