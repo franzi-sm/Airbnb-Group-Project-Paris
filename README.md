@@ -75,10 +75,10 @@ Hidden Gems are listings that have received fewer than 10 reviews but already ho
 ---
 
 ## Repository Structure
-Airbnb-Group-Project-Paris/
-├── Data Cleaning + Extension.ipynb   # Full Python pipeline
-├── clustered_hosts_powerbi.csv        # Host clustering output for Power BI
-└── README.md
+Airbnb-Group-Project-Paris/  
+├── Data Cleaning + Extension.ipynb   # Full Python pipeline  
+├── clustered_hosts_powerbi.csv        # Host clustering output for Power BI  
+└── README.md  
 
 ---
 
