@@ -1,4 +1,4 @@
-# Airbnb Paris — Market Analysis & BI Dashboard
+# Airbnb Paris - Market Analysis & BI Dashboard
 
 > End-to-end business intelligence project analysing 70,000+ Airbnb listings 
 > in Paris: from raw data to an interactive Power BI dashboard with geospatial, 
