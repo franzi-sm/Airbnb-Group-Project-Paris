@@ -1,4 +1,4 @@
-# Airbnb Paris - Market Analysis & BI Dashboard
+# Airbnb Paris — Market Analysis & BI Dashboard
 
 > End-to-end business intelligence project analysing 70,000+ Airbnb listings 
 > in Paris: from raw data to an interactive Power BI dashboard with geospatial, 
@@ -9,8 +9,9 @@
 ## Project Overview
 
 This university group project covers the full analytics pipeline for the Paris 
-Airbnb market — data extraction, cleaning, geospatial enrichment, host clustering, 
-dimensional data modelling in Power BI, and an interactive multi-page dashboard.
+Airbnb market — data extraction, cleaning, geospatial enrichment, host 
+clustering, dimensional data modelling in Power BI, and an interactive 
+multi-page dashboard.
 
 **Data period:** March 2025 – March 2026  
 **Data source:** [Inside Airbnb](https://insideairbnb.com/get-the-data) · 
@@ -53,13 +54,17 @@ dimensional data modelling in Power BI, and an interactive multi-page dashboard.
 | Market Overview | Availability by month · Avg. price by neighbourhood · Listing distribution |
 | Property Overview | Amenity stats · Property types · Instant bookable share |
 | Host Overview | Superhost status · Host segments · Verification types |
-| Review Overview | Review trends · Hidden gems (rating ≥ 4.9, < 10 reviews) 
+| Review Overview | Review trends · Hidden gems (rating ≥ 4.9, < 10 reviews) |
+
 <img width="1013" height="570" alt="image" src="https://github.com/user-attachments/assets/0ed438be-9bbd-4d7e-b02b-8efdec8dde91" />
 <img width="1008" height="569" alt="image" src="https://github.com/user-attachments/assets/7251e55b-2e26-47f0-aff1-e270434b9592" />
 <img width="1014" height="562" alt="image" src="https://github.com/user-attachments/assets/265929f4-ceeb-44c7-9f0f-4f3685f9fbb8" />
 <img width="588" height="318" alt="image" src="https://github.com/user-attachments/assets/ffd36036-506d-46ee-bfa4-6577c86525cc" />
 <img width="1014" height="562" alt="image" src="https://github.com/user-attachments/assets/d104ccc8-12c3-46d9-ab91-7c5c648734e0" />
-Hidden Gems are listings that have received fewer than 10 reviews but already hold an exceptionally high average rating (≥ 4.9). These accommodations are still relatively undiscovered, yet early guest feedback highlights them as high-quality stays, true insider tips worth exploring!  
+
+**Hidden Gems** are listings that have received fewer than 10 reviews but 
+already hold an exceptionally high average rating (≥ 4.9) — still relatively 
+undiscovered, but early guest feedback flags them as high-quality stays.
 
 ---
 
@@ -75,14 +80,17 @@ Hidden Gems are listings that have received fewer than 10 reviews but already ho
 ---
 
 ## Repository Structure
-Airbnb-Group-Project-Paris/  
-├── Data Cleaning + Extension.ipynb   # Full Python pipeline  
-├── clustered_hosts_powerbi.csv        # Host clustering output for Power BI  
-└── README.md  
+
+```
+Airbnb-Group-Project-Paris/
+├── Data Cleaning + Extension.ipynb   # Full Python pipeline
+├── clustered_hosts_powerbi.csv       # Host clustering output for Power BI
+└── README.md
+```
 
 ---
 
 ## Data Disclaimer
 
-Data sourced from Inside Airbnb for academic, non-commercial purposes only.  
+Data sourced from Inside Airbnb for academic, non-commercial purposes only. 
 All contributors have reviewed and approved the publication of this repository.
